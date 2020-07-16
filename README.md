@@ -1,8 +1,8 @@
-# Reccommendation-System
+# Recommendation-System
 
-Part 1: Reccommendation System
+Part 1: Recommendation System
 
-Reccommendation Prediction: 
+Recommendation Prediction: 
 
 Part 2.1: Topic Specific Page Rank
 
